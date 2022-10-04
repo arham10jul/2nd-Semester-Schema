@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="validate.xsd" type="application/xml" schematypens="http://www.w3.org/2001/XMLSchema"?>
+<Books>
+   <BookName> ik </BookName>
+<ISBN> 12 </ISBN>
+<Price>dfuj</Price>
+</Books>
